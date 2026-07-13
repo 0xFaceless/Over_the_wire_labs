@@ -10,8 +10,6 @@ This repository contains my notes and concise writeups while solving the OverThe
 
 ## Wargames
 
-## Wargames
-
 ### Bandit
 
 | Level | Status |
