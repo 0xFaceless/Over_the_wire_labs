@@ -10,7 +10,15 @@ This repository contains my notes and concise writeups while solving the OverThe
 
 ## Wargames
 
-* ✅ Bandit (In Progress)
+## Wargames
+
+### Bandit
+
+| Level | Status |
+|-------|--------|
+| 0 → 1 | ✅ | ------>>https://level-00.hashnode.dev/overthewire-bandit-level-0-1-walkthrough
+| 1 → 2 | ⏳ |
+| 2 → 3 | ⏳ |
 
 ## Blog
 
