@@ -65,3 +65,5 @@ After completing the challenge, disconnect from the SSH session.
 ## Full Walkthrough
 
 A detailed walkthrough with screenshots, command explanations, and the complete solution is available on my blog.
+
+[Walkthrough](https://level-00.hashnode.dev/overthewire-bandit-level-0-1-walkthrough)
