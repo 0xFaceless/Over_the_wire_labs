@@ -16,7 +16,7 @@ This repository contains my notes and concise writeups while solving the OverThe
 |-------|--------|
 | 0 → 1 | ✅ ----->>   [Walkthrough](https://0xfaceless.hashnode.dev/overthewire-bandit-level-0-1-walkthrough) | 
 | 1 → 2 |  ✅ ----->>  [Walkthrough](https://0xfaceless.hashnode.dev/overthewire-bandit-level-1-2-walkthrough) |
-| 2 → 3 | ✅ ----->>   [Walkthrought](https://0xfaceless.hashnode.dev/overthewire-bandit-level-2-3-walkthrough)|
+| 2 → 3 | ✅ ----->>   [Walkthrough](https://0xfaceless.hashnode.dev/overthewire-bandit-level-2-3-walkthrough)|
 
 ## Blog
 
