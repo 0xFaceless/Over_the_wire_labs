@@ -29,5 +29,5 @@ cat
 ## Blog
 
 📖 Read the complete walkthrough:
-[Walkthrough](https://level-00.hashnode.dev/overthewire-bandit-level-1-2-walkthrough)
+[Walkthrough](https://0xfaceless.hashnode.dev/overthewire-bandit-level-1-2-walkthrough)
 
