@@ -28,8 +28,15 @@ This repository contains my notes and concise writeups while solving the OverThe
 | 11 → 12 | ✅ ----->>  [Walkthrough](https://0xfaceless.hashnode.dev/overthewire-bandit-level-11-12-walkthrough)|
 | 12 → 13 | ✅ ----->>  [Walkthrough](https://0xfaceless.hashnode.dev/overthewire-bandit-level-12-13-walkthrough)|
 | 13 → 14 | ✅ ----->>  [Walkthrough](https://0xfaceless.hashnode.dev/overthewire-bandit-level-13-14-walkthrough)|
-| 14 → 15 | In process ----->>  [Walkthrough]()|
+| 14 → 15 | ✅ ----->>  [Walkthrough](https://0xfaceless.hashnode.dev/overthewire-bandit-level-14-15-walkthrough)|
 | 15 → 16 | In process ----->>  [Walkthrough]()|
+| 16 → 17 | In process ----->>  [Walkthrough]()|
+| 17 → 18 | In process ----->>  [Walkthrough]()|
+| 18 → 19 | In process ----->>  [Walkthrough]()|
+| 19 → 20 | In process ----->>  [Walkthrough]()|
+| 20 → 21 | In process ----->>  [Walkthrough]()|
+| 21 → 22 | In process ----->>  [Walkthrough]()|
+| 22 → 23 | In process ----->>  [Walkthrough]()|
 
 
 
