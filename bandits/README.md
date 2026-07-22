@@ -31,7 +31,7 @@ This repository contains my notes and concise writeups while solving the OverThe
 | 14 → 15 | ✅ ----->>  [Walkthrough](https://0xfaceless.hashnode.dev/overthewire-bandit-level-14-15-walkthrough)|
 | 15 → 16 | ✅ ----->>  [Walkthrough](https://0xfaceless.hashnode.dev/overthewire-bandit-level-15-16-walkthrough)|
 | 16 → 17 | ✅ ----->>  [Walkthrough](https://0xfaceless.hashnode.dev/overthewire-bandit-level-16-17-walkthrough)|
-| 17 → 18 | In process ----->>  [Walkthrough]()|
+| 17 → 18 | ✅ ----->>  [Walkthrough](https://0xfaceless.hashnode.dev/overthewire-bandit-level-17-18-walkthrough)|
 | 18 → 19 | In process ----->>  [Walkthrough]()|
 | 19 → 20 | In process ----->>  [Walkthrough]()|
 | 20 → 21 | In process ----->>  [Walkthrough]()|
