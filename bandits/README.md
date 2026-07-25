@@ -40,8 +40,14 @@ This repository contains my notes and concise writeups while solving the OverThe
 | 23 → 24 | ✅ ----->>  [Walkthrough](https://0xfaceless.hashnode.dev/bandit-level-23-24-walkthrough-exploiting-a-cron-job)|
 | 24 → 25 | ✅ ----->>  [Walkthrough](https://0xfaceless.hashnode.dev/bandit-level-24-25-walkthrough-brute-forcing-a-pin-with-bash)|
 | 25 → 26 | ✅ ----->>  [Walkthrough](https://0xfaceless.hashnode.dev/overthewire-bandit-level-25-level-26-walkthrough)|
-| 26 → 27 | In process ----->>  [Walkthrough]()|
+| 26 → 27 | ✅ ----->>  [Walkthrough](https://0xfaceless.hashnode.dev/overthewire-bandit-level-26-level-27-walkthrough)|
 | 27 → 28 | In process ----->>  [Walkthrough]()|
+| 28 → 29 | In process ----->>  [Walkthrough]()|
+| 29 → 30 | In process ----->>  [Walkthrough]()|
+| 30 → 31 | In process ----->>  [Walkthrough]()|
+| 31 → 32 | In process ----->>  [Walkthrough]()|
+| 32 → 33 | In process ----->>  [Walkthrough]()|
+| 33 → 34 | In process ----->>  [Walkthrough]()|
 
 ## Blog
 
