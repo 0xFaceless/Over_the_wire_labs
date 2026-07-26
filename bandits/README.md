@@ -46,8 +46,8 @@ This repository contains my notes and concise writeups while solving the OverThe
 | 29 → 30 | ✅ ----->>  [Walkthrough](https://0xfaceless.hashnode.dev/overthewire-bandit-level-29-level-30-walkthrough)|
 | 30 → 31 | ✅ ----->>  [Walkthrough](https://0xfaceless.hashnode.dev/bandit-level-30-level-31)|
 | 31 → 32 | ✅ ----->>  [Walkthrough](https://0xfaceless.hashnode.dev/bandit-level-31-level-32-walkthrough)|
-| 32 → 33 | In process ----->>  [Walkthrough]()|
-| 33 → 34 | In process ----->>  [Walkthrough]()|
+| 32 → 33 | ✅ ----->>  [Walkthrough](https://0xfaceless.hashnode.dev/bandit-level-32-level-33-walkthrough)|
+| 33 → 34 | In process ----->>  At this moment, level 34 does not exist yet.|
 
 ## Blog
 
